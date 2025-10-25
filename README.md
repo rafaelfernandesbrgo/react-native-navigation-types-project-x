@@ -2,6 +2,8 @@
 
 > A React Native application demonstrating advanced navigation patterns with custom animated drawer, tab navigation, and stack navigation.
 
+![Project Demo](./docs/demo.gif)
+
 ## About
 
 This project showcases a production-ready React Native application with:

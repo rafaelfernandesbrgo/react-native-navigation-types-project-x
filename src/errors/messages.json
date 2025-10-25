@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "useDrawer": {
+      "contextError": "useDrawer must be used within DrawerNavigator"
+    },
+    "useTranslation": {
+      "contextError": "useTranslation must be used within TranslationProvider"
+    }
+  },
+  "navigation": {
+    "invalidRoute": "Invalid navigation route",
+    "screenNotFound": "Screen not found"
+  }
+}

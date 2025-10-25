@@ -1,0 +1,33 @@
+{
+  "common": {
+    "appName": "Project X"
+  },
+  "drawer": {
+    "start": "Inicio",
+    "orders": "Pedidos",
+    "signOut": "Cerrar Sesión"
+  },
+  "tabs": {
+    "home": "Inicio",
+    "cart": "Carrito",
+    "favourites": "Favoritos"
+  },
+  "screens": {
+    "screen1": {
+      "title": "Pantalla 1",
+      "button": "Ir a Pantalla 2"
+    },
+    "screen2": {
+      "title": "Pantalla 2",
+      "button": "Ir a Pantalla 1"
+    }
+  },
+  "alerts": {
+    "signOutNotImplemented": "La funcionalidad de cerrar sesión debe implementarse"
+  },
+  "errorBoundary": {
+    "title": "¡Ups! Algo salió mal",
+    "defaultMessage": "Ocurrió un error inesperado",
+    "button": "Intentar de nuevo"
+  }
+}

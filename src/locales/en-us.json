@@ -1,0 +1,33 @@
+{
+  "common": {
+    "appName": "Project X"
+  },
+  "drawer": {
+    "start": "Start",
+    "orders": "Orders",
+    "signOut": "Sign Out"
+  },
+  "tabs": {
+    "home": "Home",
+    "cart": "Cart",
+    "favourites": "Favourites"
+  },
+  "screens": {
+    "screen1": {
+      "title": "Screen 1",
+      "button": "Go to Screen 2"
+    },
+    "screen2": {
+      "title": "Screen 2",
+      "button": "Go to Screen 1"
+    }
+  },
+  "alerts": {
+    "signOutNotImplemented": "Sign out functionality needs to be implemented"
+  },
+  "errorBoundary": {
+    "title": "Oops! Something went wrong",
+    "defaultMessage": "An unexpected error occurred",
+    "button": "Try Again"
+  }
+}

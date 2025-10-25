@@ -1,4 +1,4 @@
-# React Native Navigation Project
+# React Native Navigation Project X
 
 A React Native application demonstrating advanced navigation patterns with custom animated drawer, tab navigation, and stack navigation.
 
